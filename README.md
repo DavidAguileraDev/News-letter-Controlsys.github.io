@@ -34,7 +34,7 @@ El proyecto utiliza HTML y CSS para estructurar el contenido y controlar su apar
 
 ## 🖼️ Vista previa
 
-![Logotipo de Controlsys](img/logo-controlsys.png)
+![Logotipo de Controlsys](img/controlsys-logo.png)
 
 ## 📂 Estructura del proyecto
 
