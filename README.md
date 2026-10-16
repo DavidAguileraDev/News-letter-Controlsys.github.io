@@ -3,7 +3,7 @@
 
 # Firma de correo Outlook — Controlsys
 
-<img src="img/logo-controlsys.png" alt="Logotipo de Controlsys" width="220">
+<img src="img/controlsys-logo.png" alt="Logotipo de Controlsys" width="220">
 
 **Diseño y desarrollo de una firma de correo electrónico para Outlook**
 
